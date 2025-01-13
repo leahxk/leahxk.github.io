@@ -128,14 +128,14 @@ button:hover{
     background-color:#ff9c9a;
 }
 
-a.project{
+.project{
     color:black;
     font-weight:bold;
     font-size:200%;
     text-decoration:none;
 }
 
-a.project:hover{
+.project:hover{
     color:#575757;
     font-style:italic;
 }
